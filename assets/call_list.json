@@ -1,0 +1,43 @@
+{
+    "calls": [
+        {
+            "id": 1,
+            "name": "User 1",
+            "callType": "audio",
+            "callTime": "Today, 2:54 pm",
+            "call_direction": "out",
+            "image": "assets/profile.jpg"
+        },
+        {
+            "id": 2,
+            "name": "User 2",
+            "callType": "audio",
+            "callTime": "26 Feb, 2:54 pm",
+            "call_direction": "in",
+            "image": "assets/new.jpg"
+        },
+        {
+            "id": 3,
+            "name": "User 2",
+            "callType": "audio",
+            "callTime": "27 Feb, 2:54 pm",
+            "call_direction": "out",
+            "image": "assets/phoenix.jpg"
+        },{
+            "id": 4,
+            "name": "User 2",
+            "callType": "audio",
+            "callTime": "28 Feb, 2:54 pm",
+            "call_direction": "in",
+            "image": "assets/hack.jpg"
+        },
+        {
+            "id": 4,
+            "name": "User 3",
+            "callType": "audio",
+            "callTime": "29 Feb, 2:54 pm",
+            "call_direction": "in",
+            "image": "assets/username.png"
+        }
+    ]
+}

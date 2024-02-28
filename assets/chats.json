@@ -1,0 +1,104 @@
+{
+  "chats": [
+    {
+      "id": 1,
+      "name": "User 1",
+      "isGroup": false,
+      "lastMessage": "Hey! How are you?",
+      "imgurl": "assets/2922355.jpg"
+      
+    },
+    {
+      "id": 2,
+      "name": "Group 1",
+      "isGroup": true,
+      "lastMessage": "Hey! How are you?",
+      "imgurl": "assets/hack.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Group 2",
+      "isGroup": true,
+      "lastMessage": "Hey! How are you?",
+      "imgurl": "assets/new.jpg"
+    },
+    {
+      "id": 4,
+      "name": "User 2",
+      "isGroup": false,
+      "lastMessage": "Hey! How are you?",
+      "imgurl": "assets/peakpx.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Group 3",
+      "isGroup": true,
+      "lastMessage": "Hey! How are you?",
+      "imgurl": "assets/phoenix.jpg"
+    },
+    {
+      "id": 6,
+      "name": "User 3",
+      "isGroup": false,
+      "lastMessage": "Hey! How are you?",
+      "imgurl": "assets/username.png"
+    },
+    {
+      "id": 7,
+      "name": "User 4",
+      "isGroup": false,
+      "lastMessage": "Hey! How are you?",
+      "imgurl": "assets/hackwall.jpg"
+    },
+    {
+      "id": 8,
+      "name": "User 5",
+      "isGroup": false,
+      "lastMessage": "Hey! How are you?",
+      "imgurl": "assets/phoenix.jpg"
+    },
+    {
+      "id": 9,
+      "name": "User 6",
+      "isGroup": false,
+      "lastMessage": "Hey! How are you?",
+      "imgurl": "assets/hackwall.jpg"
+    },
+    {
+      "id": 10,
+      "name": "User 7",
+      "isGroup": false,
+      "lastMessage": "Hey! How are you?",
+      "imgurl": "assets/hackwall.jpg"
+    },
+    {
+      "id": 11,
+      "name": "User 8",
+      "isGroup": false,
+      "lastMessage": "Hey! How are you?",
+      "imgurl": "assets/peakpx.jpg"
+    },
+    {
+      "id": 12,
+      "name": "User 11",
+      "isGroup": false,
+      "lastMessage": "Hey! How are you?",
+      "imgurl": "assets/hack.jpg"
+    },
+    {
+      "id": 13,
+      "name": "User 9",
+      "isGroup": false,
+      "lastMessage": "Hey! How are you?",
+      "imgurl": "assets/username.png"
+
+    },
+    {
+      "id": 11,
+      "name": "User 10",
+      "isGroup": false,
+      "lastMessage": "Hey! How are you?",
+      "imgurl": "assets/hackwall.jpg"
+    }
+  ]
+}
