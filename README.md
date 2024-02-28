@@ -1,6 +1,8 @@
-# whatsappchat
+# Baat-AI Assignment Task
 
-A new Flutter project.
+This is a flutter task for Shoopy/Baat-AI.
+  -> Using GetX State Management.
+  -> Implemented major screens such as chats, home and individual chat.
 
 ## Getting Started
 
